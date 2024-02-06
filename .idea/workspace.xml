@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a22527e7-3662-4b73-941a-85e57c59ea2a" name="Changes" comment="" />
+    <list default="true" id="a22527e7-3662-4b73-941a-85e57c59ea2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../010.Container/Containerization-main/.idea/Домашние задания.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05.Java/ide/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06.OOP/Ilya_sem/dz4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar3/DZ/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar3/DZ/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar3/DZ/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar3/DZ/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar3/Seminar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar3/Seminar/model/Employe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Lection 3/Lection 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Lection 3/group_903/group_903.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Version Control/Lection 3/group_903/group_903.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Version Control/Version Control.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 2/Алгоритмы и структуры данных/Алгоритмы и структуры данных.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 2/Объектно-ориентированное программирование/Examples/Webinar_02_03_04_05_06_07/Example_Zoo/Example_Zoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 2/Объектно-ориентированное программирование/Объектно-ориентированное программирование.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/Self-study-Programming/Self-study-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/CheckPointSpecialization-main/3. Java/3. Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/Control_work_3-main/Control_work_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/FinalControlWorkSpecialization-9a1e4cdfcc55e11339d594e610d725b832ec0b3b/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/FinalControlWorkSpecialization-9a1e4cdfcc55e11339d594e610d725b832ec0b3b/app/out/production/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,25 +60,57 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/soft/Программирование/doki-theme-jetbrains/lib/instrumented-doki-theme-jetbrains-88.5-1.12.0.jar",
+    "last_opened_file_path": "G:/GB/11.JavaCore/Sabina_IDE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "G:/GB/11.JavaCore/Sabina_IDE/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "io.unthrottled.amii.config.ui.PluginSettingsUI",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Seminar3.DZ" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Seminar3.DZ.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar2.DZ.Main" />
       <module name="Sabina_IDE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Seminar2.DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar3.DZ.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar3.DZ.Main" />
+      <module name="Sabina_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar3.DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar3.Seminar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar3.Seminar.Main" />
+      <module name="Sabina_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar3.Seminar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seminar3.DZ.Main" />
+        <item itemvalue="Application.Seminar3.Seminar.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TicTacToe" />
       </list>
@@ -92,7 +150,9 @@
       <updated>1705848621019</updated>
       <workItem from="1705848622018" duration="2517000" />
       <workItem from="1705919470598" duration="1236000" />
-      <workItem from="1705922827953" duration="4690000" />
+      <workItem from="1705922827953" duration="6055000" />
+      <workItem from="1707108798417" duration="5234000" />
+      <workItem from="1707194815005" duration="11471000" />
     </task>
     <servers />
   </component>
