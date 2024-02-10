@@ -1,2 +1,0 @@
-login: Komar921
-password: ASDler043

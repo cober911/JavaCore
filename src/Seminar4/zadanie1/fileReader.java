@@ -1,4 +1,4 @@
-package Seminar4.seminar;
+package Seminar4.zadanie1;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -10,15 +10,17 @@ public class fileReader {
     public List<String> newRead() {
         List<String> creds = new ArrayList<>();
         try {
-            BufferedReader reader = new BufferedReader(new FileReader("src/Seminar4/seminar/inputLoginPass.txt"));
+            BufferedReader reader = new BufferedReader(new FileReader("src/Seminar4/zadanie1/inputLoginPass.txt"));
             String line = reader.readLine();
             while (line != null){
                 int logint = line.indexOf("login");
                 int pass = line.indexOf("password");
+                int confirmPassword = line.indexOf("confirmPassword");
                 if (logint !=-1) {
                     creds.add(line.split(":")[1].trim());
                 }if (pass != -1) {
-                    String passOUT = line.split(":")[1].trim();
+                    creds.add(line.split(":")[1].trim());
+                }if (confirmPassword != -1) {
                     creds.add(line.split(":")[1].trim());
                 }
                 line = reader.readLine();
