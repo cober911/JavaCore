@@ -8,13 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../../010.Container/Containerization-main/.idea/Домашние задания.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../05.Java/ide/untitled/untitled.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../06.OOP/Ilya_sem/dz4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar4/zadanie2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar4/zadanie2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar4/zadanie2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar4/zadanie2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar4/zadanie2/exceeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar5/DZ/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar5/lekc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar5/DZ/ex2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Lection 3/Lection 3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Lection 3/group_903/group_903.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Version Control/Lection 3/group_903/group_903.iml" afterDir="false" />
@@ -28,6 +22,7 @@
       <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/FinalControlWorkSpecialization-9a1e4cdfcc55e11339d594e610d725b832ec0b3b/app/app.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/FinalControlWorkSpecialization-9a1e4cdfcc55e11339d594e610d725b832ec0b3b/app/out/production/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminar5/DZ/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar5/DZ/ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,20 +73,7 @@
       <recent name="Seminar3.DZ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Seminar5.DZ.Main">
-    <configuration name="Seminar4.seminar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar4.seminar.Main" />
-      <module name="Sabina_IDE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Seminar4.seminar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ex2">
     <configuration name="Seminar4.zadanie1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar4.zadanie1.Main" />
       <module name="Sabina_IDE" />
@@ -118,8 +100,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seminar5.DZ.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar5.DZ.Main" />
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar5.DZ.ex1" />
+      <module name="Sabina_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar5.DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar5.DZ.ex2" />
       <module name="Sabina_IDE" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Seminar5.DZ.Main" />
+        <item itemvalue="Application.ex2" />
+        <item itemvalue="Application.ex1" />
         <item itemvalue="Application.lekc" />
         <item itemvalue="Application.Seminar4.zadanie2.Main" />
         <item itemvalue="Application.Seminar4.zadanie1.Main" />
-        <item itemvalue="Application.Seminar4.seminar.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +169,7 @@
       <workItem from="1707560097511" duration="10144000" />
       <workItem from="1707638901467" duration="14143000" />
       <workItem from="1707666697163" duration="2977000" />
-      <workItem from="1707709316920" duration="19956000" />
+      <workItem from="1707709316920" duration="22006000" />
     </task>
     <servers />
   </component>
