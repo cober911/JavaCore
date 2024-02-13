@@ -15,7 +15,7 @@ public class ex1 {
         if (!backupPath.exists()) {
             boolean created = backupPath.mkdirs();
             if (!created) {
-                System.err.println("Failed to create backup directory");
+                System.err.println("Не удалось создать бекап");
                 return;
             }
         }

@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../../010.Container/Containerization-main/.idea/Домашние задания.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../05.Java/ide/untitled/untitled.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../06.OOP/Ilya_sem/dz4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar5/DZ/ex2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Lection 3/Lection 3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Lection 3/group_903/group_903.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../IT-EducationGIT/GeekBrains/Digital Master 07.08.2022г/Первая четверть/Блок 1/Введение в контроль версий/Git_Education/Version Control/Lection 3/group_903/group_903.iml" afterDir="false" />
@@ -21,8 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/Control_work_3-main/Control_work_3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/FinalControlWorkSpecialization-9a1e4cdfcc55e11339d594e610d725b832ec0b3b/app/app.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Итоговая контрольная работа по блоку специализация/FinalControlWorkSpecialization-9a1e4cdfcc55e11339d594e610d725b832ec0b3b/app/out/production/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminar5/DZ/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar5/DZ/ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +166,7 @@
       <workItem from="1707560097511" duration="10144000" />
       <workItem from="1707638901467" duration="14143000" />
       <workItem from="1707666697163" duration="2977000" />
-      <workItem from="1707709316920" duration="22006000" />
+      <workItem from="1707709316920" duration="22144000" />
     </task>
     <servers />
   </component>
